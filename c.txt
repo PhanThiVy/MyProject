@@ -1,2 +1,6 @@
 noi dung c
+<<<<<<< HEAD
+fetch change and merge
+=======
 push change
+>>>>>>> refs/remotes/origin/master
